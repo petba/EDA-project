@@ -1,0 +1,1 @@
+This Exploratory Data Analysis (EDA) project was completed during the Big Blue Data Academy bootcamp in 2023. Based on a Kaggle Database, I present some findings concerning the features that make a track successful.
